@@ -37,9 +37,9 @@ npm install
 
 2. Create a `.env` file:
 
-CLIENT_ID=your_google_client_id
-CLIENT_SECRET=your_google_client_secret
-SESSION_SECRET=your_session_secret
+- CLIENT_ID=your_google_client_id
+- CLIENT_SECRET=your_google_client_secret
+- SESSION_SECRET=your_session_secret
 
 
 3. Run the app:
