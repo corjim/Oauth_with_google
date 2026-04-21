@@ -2,6 +2,8 @@
 
 A full-stack web application that allows users to anonymously share confessions. The app includes secure user authentication using both local login and Google OAuth via Passport.js.
 
+Users can now submit a secret, they would be authenticated before adding or displaying their secret
+
 ##  Features
 * User registration & login (local strategy)
 * Google authentication (OAuth 2.0)
